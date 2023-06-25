@@ -1,0 +1,9 @@
+[book]
+authors = ["工西东"]
+language = "zh"
+multilingual = false
+src = "."
+title = "Rust 标准库"
+
+[build]
+build-dir = "book"
